@@ -1,7 +1,7 @@
 "use client";
 
 import { useEffect, useState } from "react";
-import { notification } from "../helpers/utils";
+import { notification } from "../../../helpers/utils";
 import { ToastContainer } from "react-toastify";
 
 const Dashboard = () => {
